@@ -1,1 +1,4 @@
-image: jelle128/hello-python:latest
+image: 
+  repository: jelle128/hello-python
+  tag: latest
+
